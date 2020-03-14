@@ -27,4 +27,4 @@
 /config/master.key
 .idea
 
-app/assets/.DS_Store
+*.DS_Store
